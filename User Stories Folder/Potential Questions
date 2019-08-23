@@ -1,0 +1,8 @@
+Would you like a variety of difficulty levels for the Cryptograms? (easy, medium and hard?)
+How long should each cryptogram be in length?
+In the brief it mentions a scoreboard, how should the score of each user be determined?
+What should be included in the player statistics on the scoreboard?
+Does the software require a GUI/console interface?
+Where do the messages come from? Input from external file? Input by the user?
+Can you have more than one cryptogram open? Work on multiple cryptograms simultaneously? Swich between them?
+Does each cryptogram save so that it can be completed another time?
